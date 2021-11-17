@@ -25,7 +25,7 @@ by un **unordered list** of the ingredients needed for the recipe.<br>
 **ordered list** of the steps needed for making the dish.
 
 ## Iteration 4: Add More Recipes
-1. dd two more recipes with identical page structures to the recipe page you've<br>
+1. Add two more recipes with identical page structures to the recipe page you've<br>
 already created.<br>
 2. Don't forget to link the new recipes on the index page. Also, consider putting<br>
 all the links in an unordered lilst so they aren't all on one line.
